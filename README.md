@@ -254,31 +254,9 @@ The demonstration can cover:
 7. Key Influencers
 8. Interactive navigation between report pages
 
-**Demo:** `[demo/powerbi-dashboard-demo.mp4`](https://github.com/jeevananalyst/Adventure-Works-Executive-Insights-and-Retail-Analytics-Platform/blob/main/Demo/Screen%20Recording%202026-08-19%20140233%20(1).mp4)
+**Demo:** https://github.com/jeevananalyst/Adventure-Works-Executive-Insights-and-Retail-Analytics-Platform/blob/main/Demo/Screen%20Recording%202026-08-19%20140233%20(1).mp4
 
 ---
-
-## 📁 Repository Structure
-
-```text
-Adventure-Works-PowerBI/
-│
-├── README.md
-│
-├── Adventure Works Executive Insights and Retail Analytics Platform.pbix
-│
-├── screenshots/
-│   ├── executive-dashboard.png
-│   ├── product-details.png
-│   ├── customer-detail.png
-│   └── geographic-analysis.png
-│
-└── demo/
-    └── powerbi-dashboard-demo.mp4
-```
-
----
-
 ## 🚀 Skills Demonstrated
 
 ### Data Analytics
@@ -346,23 +324,3 @@ Potential future improvements include:
 * Advanced statistical analysis
 * Power BI Service deployment
 * Automated reporting
-
----
-
-## 👨‍💻 Author
-
-### Jeevan T R
-
-**Data Analyst | SQL | Python | Power BI | Excel**
-
-📍 Bengaluru, Karnataka, India
-
-🔗 **LinkedIn:** [Add your LinkedIn URL]
-
-🔗 **GitHub:** [Add your GitHub URL]
-
----
-
-## ⭐ Project
-
-If you found this project useful, feel free to ⭐ the repository.
