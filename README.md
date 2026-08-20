@@ -235,9 +235,7 @@ https://github.com/jeevananalyst/Adventure-Works-Executive-Insights-and-Retail-A
 
 ### Geographic Analysis
 
-![Geographic Analysis](screenshots/geographic-analysis.png)
-
-> 📌 Add your actual Power BI screenshots to the `screenshots` folder using the filenames above.
+https://github.com/jeevananalyst/Adventure-Works-Executive-Insights-and-Retail-Analytics-Platform/blob/main/Screenshots/Customer_Details.png
 
 ---
 
