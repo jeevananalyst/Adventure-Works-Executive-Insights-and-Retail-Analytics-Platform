@@ -223,7 +223,7 @@ The dashboard is designed to answer questions such as:
 
 ### Executive Dashboard
 
-![Executive Dashboard](screenshots/executive-dashboard.png)
+https://github.com/jeevananalyst/Adventure-Works-Executive-Insights-and-Retail-Analytics-Platform/blob/main/Screenshots/Executive_Dashboard.png
 
 ### Product Analysis
 
