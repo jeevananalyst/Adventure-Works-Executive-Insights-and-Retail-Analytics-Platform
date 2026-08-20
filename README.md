@@ -254,7 +254,7 @@ The demonstration can cover:
 7. Key Influencers
 8. Interactive navigation between report pages
 
-**Demo:** `demo/powerbi-dashboard-demo.mp4`
+**Demo:** `[demo/powerbi-dashboard-demo.mp4`](https://github.com/jeevananalyst/Adventure-Works-Executive-Insights-and-Retail-Analytics-Platform/blob/main/Demo/Screen%20Recording%202026-08-19%20140233%20(1).mp4)
 
 ---
 
