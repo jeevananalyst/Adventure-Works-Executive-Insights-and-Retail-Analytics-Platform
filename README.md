@@ -166,28 +166,6 @@ The project demonstrates the use of DAX for:
 * Comparative analysis
 * Time-based analysis
 
-Example:
-
-```DAX
-Total Revenue =
-SUM(Sales[Revenue])
-```
-
-Example profitability calculation:
-
-```DAX
-Profit Margin =
-DIVIDE(
-    [Total Profit],
-    [Total Revenue],
-    0
-)
-```
-
-> The measures above are examples of the type of analytical calculations used in the project. Replace them with the exact measures from your model if you want the README to document your implementation precisely.
-
----
-
 ## 📈 Key Analytical Capabilities
 
 The dashboard demonstrates practical capabilities in:
