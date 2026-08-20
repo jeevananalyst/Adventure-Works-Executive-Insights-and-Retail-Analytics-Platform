@@ -231,7 +231,7 @@ https://github.com/jeevananalyst/Adventure-Works-Executive-Insights-and-Retail-A
 
 ### Customer Analysis
 
-![Customer Detail](screenshots/customer-detail.png)
+https://github.com/jeevananalyst/Adventure-Works-Executive-Insights-and-Retail-Analytics-Platform/blob/main/Screenshots/Map_View.png
 
 ### Geographic Analysis
 
