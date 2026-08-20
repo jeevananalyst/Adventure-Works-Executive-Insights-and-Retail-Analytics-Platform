@@ -227,7 +227,7 @@ https://github.com/jeevananalyst/Adventure-Works-Executive-Insights-and-Retail-A
 
 ### Product Analysis
 
-![Product Details](screenshots/product-details.png)
+https://github.com/jeevananalyst/Adventure-Works-Executive-Insights-and-Retail-Analytics-Platform/blob/main/Screenshots/Product_Details.png
 
 ### Customer Analysis
 
